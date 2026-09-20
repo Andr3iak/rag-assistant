@@ -30,7 +30,7 @@ include = ["app*"]
 
 [tool.ruff]
 line-length = 100
-target-vers-ion = "py312"
+target-version = "py312"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "N", "UP", "B", "ASYNC", "S", "C4", "RET", "SIM"]
